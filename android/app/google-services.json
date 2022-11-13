@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163952813467",
+    "project_id": "shoes-app-9667f",
+    "storage_bucket": "shoes-app-9667f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163952813467:android:1fbc17f668c211110d2d3e",
+        "android_client_info": {
+          "package_name": "com.example.shoes_app_ui_training"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163952813467-opuad76aenv8715icjpvkf7u0a38pblr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTL2YdUBxQF_8MdkCtLjBuuFVd94D9j1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163952813467-opuad76aenv8715icjpvkf7u0a38pblr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
